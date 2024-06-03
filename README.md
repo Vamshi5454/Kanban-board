@@ -1,4 +1,4 @@
-![GIF](recording1.gif)
+<!-- ![GIF](recording1.gif) -->
 
 ### Prerequisites
 
@@ -11,7 +11,7 @@ Setting up using docker:
 
 ```bash
 # Clone the repository
-https://github.com/sainikhil1605/kanban-board
+https://github.com/Vamshi5454/Kanban-board.git
 
 # Change into the project directory
 cd kanban-board
@@ -24,7 +24,7 @@ Setting up without docker:
 
 ```bash
 # Clone the repository
-https://github.com/sainikhil1605/kanban-board
+https://github.com/Vamshi5454/Kanban-board.git
 
 # Change into the project directory
 cd kanban-board
